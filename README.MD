@@ -11,6 +11,12 @@ Conceitos desenvolvidos neste projeto:
 - React JS;
 - API;
 
+Os usuários devem ser capazes de:
+
+- Ver o layout ideal para o aplicativo, dependendo do tamanho da tela do dispositivo
+- Ver os estados de foco para todos os elementos interativos na página
+- Gerar um novo conselho clicando no ícone do dado
+
 ## :wrench: Tecnologias utilizadas
 
 - Typescript;
@@ -19,6 +25,9 @@ Conceitos desenvolvidos neste projeto:
 - HTML;
 - CSS;
 - React JS
+
+## :dart: Aprendizado:
+- Nesse projeto fui capaz de desenvolver requisições utilizando fetch, tipagem de dados com typescript, layout responsivo com CSS, component dinâmico utlizando React JS.
 
 ## :rocket: Rodando o projeto
 
@@ -40,6 +49,6 @@ npm run preview
   </tr>
 </table>
 
-## :dart: Status do projeto
+## Link do Projeto:
 
-### Coloque as informações do seu projeto, o link da documentação e o link deploy
+### https://blushing-recess.surge.sh/
