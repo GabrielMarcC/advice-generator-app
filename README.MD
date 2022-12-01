@@ -2,19 +2,14 @@
 
 ## :memo: Descrição
 
-O que esperamos que você entenda com esse projeto?
-Conceitos já visto aqui no backend :
+
+Conceitos desenvolvidos neste projeto:
 
 - Typescript;
 - Node;
 - CSS;
 - React JS;
 - API;
-
-## :books: Aulas assistidas
-
-- <b>Vídeo 1</b>: Node e NPM (Conceitos de node, NPM, Adicionar Dependências, Preenchendo Package.json)
-- <b>Vídeo 2</b>: Introdução ao Typescript (Tipagens de Variáveis, Tipagem de funções, Type, Enum)
 
 ## :wrench: Tecnologias utilizadas
 
@@ -31,12 +26,9 @@ Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando 
 
 ```
 npm install
-npm run dev
+npm run preview
 ```
 
-## :soon: Implementação futura
-
-- O que será implementado na próxima sprint?
 
 ## :handshake: Autor
 
