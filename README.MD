@@ -39,6 +39,12 @@ npm run preview
 ```
 
 
+## Link do Projeto:
+
+### https://blushing-recess.surge.sh/
+
+
+
 ## :handshake: Autor
 
 <table>
@@ -48,7 +54,3 @@ npm run preview
     </td>
   </tr>
 </table>
-
-## Link do Projeto:
-
-### https://blushing-recess.surge.sh/
