@@ -39,7 +39,7 @@ npm run preview
 ```
 
 
-## Link do Projeto:
+## Link do Deploy:
 
 ### https://blushing-recess.surge.sh/
 
